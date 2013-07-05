@@ -1,1 +1,2 @@
 This is the initial file that has been created by NP for MergeTest
+This line has been added by abd after the first sucessful merge :)

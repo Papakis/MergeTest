@@ -1,2 +1,3 @@
 This is the initial file that has been created by NP for MergeTest
 And me Nikolas Papamanolioudakis I'm making a change in order to see how merge is working
+This line has been added by abd after the first sucessful merge :)
